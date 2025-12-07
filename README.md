@@ -46,7 +46,10 @@ The insights help understand customer behaviour, delivery performance, and poten
   * Delay rate by category
 
 📸 **Screenshot Placeholder:**
-`![Objective1](./images/objective1_delivery_performance.png)`
+![Objective1](./Screenshots/obj1.1.png)
+![Objective1](./Screenshots/obj1.2.png) 
+![Objective1](./Screenshots/obj1.3.png)
+![Objective1](./Screenshots/obj1.4.png)
 
 ---
 
@@ -64,7 +67,7 @@ The insights help understand customer behaviour, delivery performance, and poten
 * Visualized platform-wise delivery speed
 
 📸 **Screenshot Placeholder:**
-`![Objective2](./images/objective2_platform_analysis.png)`
+![Objective2](./Screenshots/obj2.png)
 
 ---
 
@@ -82,7 +85,7 @@ The insights help understand customer behaviour, delivery performance, and poten
 * Visualized sentiment distribution (bar + pie charts)
 
 📸 **Screenshot Placeholder:**
-`![Objective3](./images/objective3_sentiment_analysis.png)`
+![Objective3](./Screenshots/obj3.png)
 
 ---
 
@@ -104,8 +107,8 @@ The insights help understand customer behaviour, delivery performance, and poten
   → *Will a customer request a refund?*
 
 📸 **Screenshot Placeholder:**
-`![Objective4](./images/objective4_refund_prediction.png)`
-
+![Objective4](./Screenshots/obj4.png)
+![Objective4](./Screenshots/obj4.1.png)
 ---
 
 # 🎯 **Objective 5: Identify Peak Ordering Hours**
@@ -122,7 +125,7 @@ The insights help understand customer behaviour, delivery performance, and poten
 * Plotted time-of-day order frequencies
 
 📸 **Screenshot Placeholder:**
-`![Objective5](./images/objective5_peak_hours.png)`
+![Objective5](./Screenshots/obj5.png)
 
 ---
 
